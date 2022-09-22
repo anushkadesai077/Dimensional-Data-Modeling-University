@@ -6,3 +6,4 @@ This project involves Database creation after brainstorming for an University mo
 2) Design a Dimensional Data Model of this problem (University course offerings model)
 3) Develop an ER diagram of the dimensional data model
 4) Implement this model by creating a SQL script to incorporte the designed database model
+5) Add data into the model to depict a live scenario of the database in use
